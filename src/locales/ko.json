@@ -20,7 +20,6 @@
     "wisdom": "지능",
     "style": "각질",
     "mood": "컨디션",
-
     "distanceFit": "거리 적성",
     "surfaceFit": "경기장 적성",
     "styleFit": "각질 적성",
@@ -54,13 +53,11 @@
     "totalStatus": "스테이터스 총합",
     "displayStatusCheck": "코스 보정",
     "deltaHint": "기준차 = 선택한 코스에 설정되어 있는 가장 느린 랩타임과의 차이. 마이너스 값이 클수록 빠릅니다.",
-
     "skillActivateRate": "스킬 발동률",
     "temperamentRate": "흥분 상태 확률",
     "v0": "스타트 목표 속도",
     "a0": "스타트 가속도",
     "maxSpurtSpeed": "스퍼트 속도",
-
     "minTime": "최단 시간",
     "maxTime": "최장 시간",
     "corrected": "보정 후",
@@ -75,7 +72,6 @@
     "finalSpeed": "종반 목표 속도",
     "finalAccel": "종반 가속도",
     "none": "없음",
-
     "remark1": "시뮬은 시뮬일 뿐 참고용으로만 사용바랍니다.",
     "remark2": "회색 구간은 흥분 상태 구간, 옅은 보라색은 코너 구간입니다.",
     "remark3": "저장한 우마무스메 데이터는 언제든지 사라질 수 있습니다. 사라지면 다시 저장해주세요.",
@@ -84,10 +80,8 @@
     "remark6": "디버프 스킬의 발동률은 80%로 고정입니다.",
     "remark7": "적성 보정은 직접적으로 스테이터스에 영향을 주지 않기에, 보정 후 스테이터스에 표시되지 않습니다.",
     "remark8": "번역 : SeoYun / 스킬 번역은 나무위키를 참고하였으며, 정식 발매시 변경점이 있는 경우 수정됩니다.",
-
-    "contact": "제작자 유튜브 링크",
+    "contact": "제작자 트위터 링크",
     "emulating": "시뮬레이션 중입니다. 잠시만 기다려주세요....",
-
     "randomPosition": "스킬 발동 구간",
     "randomPosition0": "랜덤",
     "randomPosition1": "가장 빠르게",
@@ -95,35 +89,28 @@
     "randomPosition3": "1/2 구간",
     "randomPosition4": "3/4 구간",
     "randomPosition5": "가장 느리게",
-
     "runningStyle1": "도주",
     "runningStyle2": "선행",
     "runningStyle3": "선입",
     "runningStyle4": "추입",
-
     "surfaceCondition1": "양호",
     "surfaceCondition2": "다습",
     "surfaceCondition3": "포화",
     "surfaceCondition4": "불량",
-
     "mood0": "최상",
     "mood1": "양호",
     "mood2": "보통",
     "mood3": "저조",
     "mood4": "최악",
-
     "uniqueLv0Hint": "(Lv0에서 불발 취급해)",
     "evoSkill": "진화 스킬",
     "evoHint": "(고유 선택으로 대응하는 진화 스킬을 표시)",
-
     "leadCompetitionSpeed": "포지션 경쟁 속도",
     "leadCompetitionDuration": "초",
     "leadCompetitionAdvantage": "장점",
     "leadCompetitionHP": "스태미나",
-
     "simulateLeadCompetition": "포지션 경쟁 시뮬레이션",
     "simulatePositionKeeping": "포지션 킵 시뮬레이션",
-
     "positionKeeping": {
       "none": "없음",
       "nige": "도주",
